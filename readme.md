@@ -11,7 +11,7 @@ El estudiante debe ser capaz de reconocer y aplicar conceptos básicos del Parad
 ## Datos del estudiante
 Nombre del estudiante: Alan Pilco 
 
-Nivel: Estudiante
+Nivel: 4 Semestre
 
 Carrera: Ingeniería en Informática
 
